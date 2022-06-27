@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Downtown Hotel",
+    "thumbnail": "https://picsum.photos/id/369/400/400",
+    "rating": "5",
+    "description": "Integer at pulvinar risus. Morbi bibendum metus sem, quis rhoncus dui vulputate nec. Maecenas bibendum nisl vel scelerisque volutpat. Quisque convallis, sem ac facilisis malesuada, purus nibh pellentesque risus, nec pretium nisl tortor sed ipsum. In vitae lectus imperdiet, hendrerit velit vitae, condimentum elit. Aenean aliquet at sapien sit amet efficitur. Curabitur condimentum fringilla justo a maximus."
+  },
+  {
+    "id": 2,
+    "title": "Fairytail castle",
+    "thumbnail": "https://picsum.photos/id/1040/400/400",
+    "rating": "4",
+    "description": "Nulla condimentum urna et nisl fermentum consectetur. Sed nisl tortor, bibendum at neque a, laoreet vulputate urna. Vestibulum ultrices augue id ligula sollicitudin, et sagittis odio posuere. Nunc fermentum libero quis ex aliquam, vel accumsan nisl tristique. Suspendisse vitae rhoncus mauris. Ut rutrum mollis odio, ultrices scelerisque lacus mattis eget. Praesent lorem nibh, tincidunt vel ultricies ac, tempor sed orci. In hac habitasse platea dictumst. Nulla facilisi. Aenean urna augue, fringilla non dui a, auctor fringilla eros. Suspendisse dui mauris, mollis sit amet mi at, venenatis sagittis urna. Pellentesque interdum ex eget tincidunt hendrerit. Nulla facilisi."
+  },
+  {
+    "id": 3,
+    "title": "Local Bed and Breakfast",
+    "thumbnail": "https://picsum.photos/id/437/400/400",
+    "rating": "3",
+    "description": "Sed vestibulum in enim et consectetur. Cras volutpat sagittis pretium. Sed eget dapibus metus, sit amet laoreet arcu. Praesent gravida odio sed pretium viverra. Suspendisse ornare elit ut purus tristique, tempor accumsan mi eleifend. Integer ultrices velit eu felis dignissim, sed vulputate libero commodo. Donec consequat arcu non consequat sollicitudin."
+  },
+  {
+    "id": 4,
+    "title": "Huge Hotel",
+    "thumbnail": "https://picsum.photos/id/1031/400/400",
+    "rating": "1",
+    "description": "Nulla condimentum urna et nisl fermentum consectetur. Sed nisl tortor, bibendum at neque a, laoreet vulputate urna. Vestibulum ultrices augue id ligula sollicitudin, et sagittis odio posuere. Nunc fermentum libero quis ex aliquam, vel accumsan nisl tristique. Suspendisse vitae rhoncus mauris. Ut rutrum mollis odio, ultrices scelerisque lacus mattis eget. Praesent lorem nibh, tincidunt vel ultricies ac, tempor sed orci. In hac habitasse platea dictumst. Nulla facilisi. Aenean urna augue, fringilla non dui a, auctor fringilla eros. Suspendisse dui mauris, mollis sit amet mi at, venenatis sagittis urna. Pellentesque interdum ex eget tincidunt hendrerit. Nulla facilisi."
+  }
+]
