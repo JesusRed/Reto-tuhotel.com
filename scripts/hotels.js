@@ -20,7 +20,7 @@ function hotelsData(data) {
         console.log(i, data.hotels[i]);
         output += `
             <tr>
-            <td><a href="pages/reviews.html">${data.hotels[i].title}</a></td>
+            <td><a onclick="reviewsPage(${data.hotels[i].id})">${data.hotels[i].title}</a></td>
             <td>${element.description}</td>
             </tr>
           `;
@@ -29,6 +29,11 @@ function hotelsData(data) {
     }
   }
   document.getElementById('hotels').innerHTML = output;
+}
+
+function reviewsPage(id) {
+  console.log(id);
+  window.open(`http://localhost:5500/pages/reviews.html?id=${id}`,"_blank");
 }
 
 
